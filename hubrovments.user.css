@@ -1,5 +1,8 @@
-.issues-list-actions {
-    position: sticky;
-    top: 0;
-    z-index: 200;
+@-moz-document domain('github.com'){
+	.issues-list-actions {
+	    position: sticky;
+	    top: 0;
+	    z-index: 200;
+	}
+
 }
